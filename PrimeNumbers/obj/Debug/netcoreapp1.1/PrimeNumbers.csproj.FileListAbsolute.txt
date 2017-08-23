@@ -1,0 +1,20 @@
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\bin\Debug\netcoreapp1.1\PrimeNumbers.deps.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\bin\Debug\netcoreapp1.1\PrimeNumbers.runtimeconfig.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\bin\Debug\netcoreapp1.1\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\bin\Debug\netcoreapp1.1\PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\bin\Debug\netcoreapp1.1\PrimeNumbers.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\obj\Debug\netcoreapp1.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\obj\Debug\netcoreapp1.1\PrimeNumbers.AssemblyInfo.cs
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\obj\Debug\netcoreapp1.1\PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\obj\Debug\netcoreapp1.1\PrimeNumbers.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\Test Driven Design\obj\Debug\netcoreapp1.1\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\PrimeNumbers.deps.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\PrimeNumbers.runtimeconfig.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\PrimeNumbers.runtimeconfig.dev.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\PrimeNumbers.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\PrimeNumbers.AssemblyInfo.cs
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\PrimeNumbers.pdb

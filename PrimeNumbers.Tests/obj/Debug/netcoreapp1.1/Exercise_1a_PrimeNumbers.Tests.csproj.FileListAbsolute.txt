@@ -1,0 +1,15 @@
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.deps.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.runtimeconfig.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.runtimeconfig.dev.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.AssemblyInfo.cs
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers.Tests\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.Tests.pdb

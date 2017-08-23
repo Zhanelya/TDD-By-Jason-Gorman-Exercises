@@ -1,0 +1,10 @@
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.deps.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.runtimeconfig.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.runtimeconfig.dev.json
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\bin\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.pdb
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.AssemblyInfo.cs
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.dll
+C:\Users\ZHANELYA\Source\Repos\Test Driven Design\PrimeNumbers\obj\Debug\netcoreapp1.1\Exercise_1a_PrimeNumbers.pdb
